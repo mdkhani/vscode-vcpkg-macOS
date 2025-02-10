@@ -3,6 +3,9 @@
     "cmake.configureOnOpen": false,
     "cmake.useCMakePresets": "always",
     "cmake.launchBehavior": "newTerminal",
+    "cmake.debugConfig": {
+        "MIMode": "lldb",
+    },
     "cmake.options.advanced": {
         "build": {
             "statusBarVisibility": "visible",
